@@ -1,6 +1,7 @@
 set cursorline
 set nu
 set autoindent
+set smartindent
 set hlsearch
 set incsearch
 
